@@ -6,7 +6,7 @@ art of LoongArchLinux
 
 
 The picture of loong for Loong  
-The shape of loong(S) for Son
+The shape of loong(S) for Son  
 The color of loong from loongson's TM
 
 龙的图像代表 Loong  
