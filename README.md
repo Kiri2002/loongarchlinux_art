@@ -23,4 +23,8 @@ The color of loong from loongson's TM
 
 ![loongarch_logo.svg](loongarchlinux_loongtxture_bule_red.png)
 
+# LoongArchlinux_float logo
+有人提出原龙纹图有斩龙头的意思，加一版浮动图层：
+
+![loongarch_logo.svg](LoongArchLinux_float.png)
 
