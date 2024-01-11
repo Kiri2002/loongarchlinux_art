@@ -16,9 +16,11 @@ The color of loong from loongson's TM
 
 # LongArchLinux_texture Logo
 @[ZZQ](https://bbs.loongarch.org/u/430) 设计的龙纹版：
+
 ![loongarch_logo.svg](loongarchlinux_loongtxture_red.png)
 
 添加一个原版配色：
+
 ![loongarch_logo.svg](loongarchlinux_loongtxture_bule_red.png)
 
 
